@@ -1,0 +1,16 @@
+-   Port this to a managed package in an org
+    -   At least migrate to LWC OSS (the new version could be useful)
+-   Add these tabs
+    -   Data
+    -   Conversation History
+    -   Context Variables
+    -   Test Cases
+-   The test cases tab
+    -   Will list all the test cases
+    -   Generates CSV, XML and/or YAML.
+        -   An LLM tool could do the conversion
+            -   Prompt Template if moved to Salesforce
+    -   Generate the expected response
+        -   An LLM could help generate this.
+            -   Prompt Template if moved to Salesforce
+-   x
